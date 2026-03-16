@@ -18,5 +18,9 @@
   },
   "bin": {
     "vpsaudit": "bin/cli.js"
+  },
+  "homepage": "https://github.com/idirdev/vpsaudit",
+  "bugs": {
+    "url": "https://github.com/idirdev/vpsaudit/issues"
   }
 }
